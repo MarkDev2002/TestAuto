@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myblue\\Desktop\\TestSele\\DemoNUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D1488-A1EB-485E-B83A-D9A319342A3D}|DemoNUnit\\DemoNUnit.csproj|c:\\users\\myblue\\desktop\\testsele\\demonunit\\demonunit\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D1488-A1EB-485E-B83A-D9A319342A3D}|DemoNUnit\\DemoNUnit.csproj|solutionrelative:demonunit\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\TestSele\\DemoNUnit\\DemoNUnit\\Class1.cs",
+              "RelativeDocumentMoniker": "DemoNUnit\\Class1.cs",
+              "ToolTip": "C:\\Users\\myblue\\Desktop\\TestSele\\DemoNUnit\\DemoNUnit\\Class1.cs",
+              "RelativeToolTip": "DemoNUnit\\Class1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:09:07.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

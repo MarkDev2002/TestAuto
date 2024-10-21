@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\myblue\\Desktop\\TestSele\\Register\\",
+  "WorkspaceRootPath": "C:\\Users\\kinhc\\Desktop\\TestAuto\\Register\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDA606F0-ECE8-4E86-ACB0-67F12A738FFA}|Register\\Register.csproj|c:\\users\\myblue\\desktop\\testsele\\register\\register\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDA606F0-ECE8-4E86-ACB0-67F12A738FFA}|Register\\Register.csproj|c:\\users\\kinhc\\desktop\\testauto\\register\\register\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDA606F0-ECE8-4E86-ACB0-67F12A738FFA}|Register\\Register.csproj|solutionrelative:register\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\myblue\\Desktop\\TestSele\\Register\\Register\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kinhc\\Desktop\\TestAuto\\Register\\Register\\Program.cs",
               "RelativeDocumentMoniker": "Register\\Program.cs",
-              "ToolTip": "C:\\Users\\myblue\\Desktop\\TestSele\\Register\\Register\\Program.cs",
+              "ToolTip": "C:\\Users\\kinhc\\Desktop\\TestAuto\\Register\\Register\\Program.cs",
               "RelativeToolTip": "Register\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwDgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T12:24:05.07Z",
               "EditorCaption": ""
